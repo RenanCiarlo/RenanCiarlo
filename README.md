@@ -3,7 +3,6 @@
 ### Sobre mim
 - 👨‍💻 Estudo desenvolvimento web full stack
 - 📚 Cursando Gestão da Tecnologia da Informação
--  ☕💙
 
 ## Minhas Habilidades:
 ### Front-end:
